@@ -8,5 +8,5 @@
 -As an admin, I can see the number of tickets for each movies.
 -As an admin, I can offer discounts and promo codes for loyal customers and update or manage discount amounts.
 
-
+![ERD Diagram](./ERD.png)
 ![ERD Diagram](./ERD_Diagram.png)
